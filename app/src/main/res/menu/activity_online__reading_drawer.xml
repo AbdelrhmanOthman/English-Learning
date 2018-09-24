@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_post"
+            android:title="جريدة الواشنطن بوست" />
+        <item
+            android:id="@+id/nav_times"
+            android:title="جريدة الواشنطن تايمز" />
+        <item
+            android:id="@+id/nav_bbcnews"
+            android:title="موقع بى بى سى للاخبار" />
+        <item
+            android:id="@+id/nav_bbcsport"
+            android:title="موقع بى بى سى الرياضية" />
+        <item
+            android:id="@+id/nav_foxNews"
+            android:title="موقع فكس نيوز" />
+
+        <item
+            android:id="@+id/nav_los"
+            android:title="صحيفة لوس انجلوس تايمز" />
+
+        <item
+            android:id="@+id/nav_anbc"
+            android:title="موقع ان بى سى نيوز" />
+
+        <item
+            android:id="@+id/nav_Dialy"
+            android:title="صحيفة الديلى مايل" />
+
+
+        <item
+            android:id="@+id/nav_gardian"
+            android:title="صحيفة الجارديان" />
+
+
+        <item
+            android:id="@+id/nav_welstreet"
+            android:title="صحيفة وولستريت جورنال"/>
+
+
+        <item
+            android:id="@+id/nav_usaToday"
+            android:title="موقع اخبار امريكا اليوم" />
+
+
+        <item
+            android:id="@+id/nav_abcNews"
+            android:title="موقع ا بى سى نيوز " />
+
+
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share1"
+                android:icon="@drawable/ic_menu_share"
+                android:title="شارك التطبيق" />
+            <item
+                android:id="@+id/nav_valuate1"
+                android:title="تقييم التطبيق" />
+
+            <item
+                android:id="@+id/nav_help1"
+                android:title=" مساعدة" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_read2"
+
+            android:title="القراءة" />
+        <item
+            android:id="@+id/nav_conv2"
+
+            android:title="المحادثة" />
+        <item
+            android:id="@+id/nav_listen2"
+
+            android:title="الاستماع" />
+
+
+        <item
+            android:id="@+id/nav_Public1"
+
+            android:title="كلمات عامة1" />
+
+
+        <item
+            android:id="@+id/nav_Public2"
+
+            android:title="كلمات عامة2" />
+
+        <item
+            android:id="@+id/nav_PublicWords"
+
+            android:title="كلمات عامة3" />
+        <item
+            android:id="@+id/nav_AccontingWords"
+
+            android:title="كلمات فى المحاسبة" />
+        <item
+            android:id="@+id/nav_POLiticalWords"
+
+            android:title="كلمات فى السياسة" />
+        <item
+            android:id="@+id/nav_EconomyWords"
+
+            android:title="كلمات فى الاقتصاد" />
+        <item
+            android:id="@+id/nav_TuristsWords"
+
+            android:title="كلمات فى السياحة" />
+        <item
+            android:id="@+id/nav_ComputerWords"
+
+            android:title="كلمات فى الكمبيوتر" />
+        <item
+            android:id="@+id/nav_commonQuestion"
+
+            android:title="الاسئلة الشائعة فى المحادثة اليومية" />
+
+
+        <item
+            android:id="@+id/nav_myExampels"
+
+            android:title="صفحة الامثلة" />
+
+        <item
+            android:id="@+id/nav_Favourt"
+
+            android:title="المفضلة" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="شارك التطبيق" />
+            <item
+                android:id="@+id/nav_valuate"
+                android:title="تقييم التطبيق" />
+
+
+            <item
+                android:id="@+id/nav_moreApps"
+                android:title= "تطبيقاتنا" />
+
+        </menu>
+    </item>
+
+</menu>

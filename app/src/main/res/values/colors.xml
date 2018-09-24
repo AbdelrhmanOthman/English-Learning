@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#ff03a9f4</color>
+    <color name="colorPrimaryDark">#ff2196f3</color>
+    <color name="colorAccent">#da3a00</color>
+    <color name="colorTop">#9b0800</color>
+    <color name="colorBottom">#890606</color>
+    <color name="colorbg2">#ccffcb5a</color>
+    <color name="colorbg">#d6d6e4</color>
+
+    <drawable name="colorbgSelect">#cc4cb8fa</drawable>
+
+
+
+    <color name="colorTextView">#e1816c</color>
+    <color name="colorTextView2">#ff03a9f4</color>
+    <color name="colorbackgorundButton">#1e1e23</color>
+    <color name="colorTextButton">#85e2df</color>
+    <color name="colorbackgorund">#d6d6e4</color>
+
+
+</resources>

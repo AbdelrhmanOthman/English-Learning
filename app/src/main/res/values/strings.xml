@@ -1,0 +1,1171 @@
+<resources>
+    <string name="app_name">LEARN_ENGLISH</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="Ads">        تم ازالة جميع الاعلانات وجعلها مقصورة فقط على
+        الزر الخاص بالاعلان بناء على طلب كثير من المستخدمين نرجو منكم فقط
+        دعما لنا مشاهدة بعض الاعلانات والضغط على الاعلان الذى ينال اعجابكم"</string>
+
+
+
+    <string-array name="Titles">
+        <item>المقطع الاول</item>
+        <item>المقطع الثانى</item>
+        <item>المقطع الثالث</item>
+        <item>المقطع الرابع</item>
+        <item>المقطع الخامس</item>
+        <item>المقطع السادس</item>
+        <item>المقطع السابع</item>
+        <item>المقطع الثامن</item>
+        <item>المقطع التاسع</item>
+        <item>المقطع العاشر</item>
+        <item>المقطع الحادى عشر</item>
+        <item>المقطع الثانى عشر</item>
+        <item>المقطع الثالث عشر</item>
+        <item>المقطع الرابع عشر</item>
+        <item>المقطع الخامس عشر</item>
+        <item>المقطع السادس عشر</item>
+        <item>المقطع السابع عشر</item>
+        <item>المقطع الثامن عشر</item>
+        <item>المقطع التاسع عشر</item>
+        <item>المقطع العشرون</item>
+        <item>المقطع الواحد والعشرون</item>
+        <item>المقطع الثانى والعشرون</item>
+        <item>المقطع الثالث والعشرون</item>
+        <item>المقطع الرابع والعشرون</item>
+        <item>المقطع الخامس والعشرون</item>
+        <item>المقطع السادس والعشرون</item>
+        <item>المقطع السابع والعشرون</item>
+        <item>المقطع الثامن والعشرون</item>
+    </string-array>
+
+
+    <string-array name="URLSound">
+        <item>http://k003.kiwi6.com/hotlink/iles1li9hn/mp3</item>
+        <item>http://k003.kiwi6.com/hotlink/yzcwjg06f1/mp3</item>
+        <item>/http://k003.kiwi6.com/hotlink/3m5cf5dkmu/mp3</item>
+        <item>http://k003.kiwi6.com/hotlink/56etwckctr/mp3</item>
+        <item>http://k003.kiwi6.com/hotlink/8a4ihfkcw6/mp3</item>
+        <item>http://k003.kiwi6.com/hotlink/glyh40ovx2/mp3</item>
+        <item>http://k003.kiwi6.com/hotlink/qvwisuz1q8/mp3</item>
+        <item>http://k003.kiwi6.com/hotlink/dapg1fpxce/mp3</item>
+        <item>http://k003.kiwi6.com/hotlink/eswuyxol87/mp3</item>
+        <item>http://k003.kiwi6.com/hotlink/48u0fmg3n8/mp3</item>
+        <item>http://k003.kiwi6.com/hotlink/ebtkyi192i/mp3</item>
+        <item>http://k003.kiwi6.com/hotlink/x3habwyexr/mp3</item>
+        <item>http://k003.kiwi6.com/hotlink/xzp228sfd7/wav</item>
+        <item>http://k003.kiwi6.com/hotlink/pc1g1t836e/mp3</item>
+        <item>http://k003.kiwi6.com/hotlink/4ipntdpcb3/mp3</item>
+        <item>http://k003.kiwi6.com/hotlink/chve71841f/mp3</item>
+        <item>http://k003.kiwi6.com/hotlink/s6h69eu0io/mp3</item>
+        <item>http://k003.kiwi6.com/hotlink/6pzzruh3ia/mp3</item>
+        <item>http://k003.kiwi6.com/hotlink/34sytz0qe1/mp3</item>
+        <item>http://k003.kiwi6.com/hotlink/ce5ja8v9nt/mp3</item>
+        <item>http://k003.kiwi6.com/hotlink/n0f3dinlk4/mp3</item>
+        <item>http://k003.kiwi6.com/hotlink/upgcxnt2s8/mp3</item>
+        <item>http://k003.kiwi6.com/hotlink/4i4rfhtrq3/mp3</item>
+        <item>http://k003.kiwi6.com/hotlink/9tfyt1hlum/mp3</item>
+        <item>http://k003.kiwi6.com/hotlink/5wzmgsrze4/mp3</item>
+        <item>http://k003.kiwi6.com/hotlink/dy7972slzd/mp3</item>
+        <item>http://k003.kiwi6.com/hotlink/qt23w6f5mn/wav</item>
+        <item>http://k003.kiwi6.com/hotlink/h2jovqnf28/mp3</item>
+    </string-array>
+
+
+    <string name="action_settings">Settings</string>
+    <string-array name="conversation">
+        <item>المقابلة والتحية</item>
+        <item>الوداع والتحية</item>
+        <item>ابداء الملاحظة بطريق مهذبة</item>
+        <item>الشكر والاستئذان</item>
+        <item>الاعتذار</item>
+        <item>السؤال والاجابة</item>
+        <item>الموافقة والرفض</item>
+        <item>اسئلة المحادثة المفتوحة</item>
+        <item>ابداء الملاحظات فى المحادثة</item>
+        <item>الرأى والتعبير</item>
+        <item>الطلب</item>
+        <item>الدعوة</item>
+        <item>الاقتراحات</item>
+        <item>المتاعب</item>
+        <item>التعاطف والتعازى</item>
+        <item>التعجب</item>
+        <item>محادثة الهاتف</item>
+
+
+    </string-array>
+
+
+    <string-array name="Economy">
+
+        <item>Union</item>
+        <item>Economic Union</item>
+        <item>Federation of Champers of Commerce</item>
+        <item>Ready made Clothing Association</item>
+        <item>Customs Union</item>
+        <item>Consortium</item>
+        <item>Wage</item>
+        <item>Surcharge</item>
+        <item>Monopoly</item>
+        <item>Monopsony</item>
+        <item>Monopolistic</item>
+        <item>Reserve</item>
+        <item>Currency Reserves</item>
+        <item>Oil Reserves</item>
+        <item>Economic Conditions</item>
+        <item>Management</item>
+        <item>Customhouse</item>
+        <item>Economic Views</item>
+        <item>Profit</item>
+        <item>Price hike</item>
+        <item>Price Rise</item>
+        <item>Land</item>
+        <item>Prosperity</item>
+        <item>Boom</item>
+        <item>Economic Crisis</item>
+        <item>Investment</item>
+        <item>Foreign Investment</item>
+        <item>Local Investment</item>
+        <item>Sterling</item>
+        <item>Consulting</item>
+        <item>Advisory</item>
+        <item>Land Reclamatin</item>
+        <item>Profitter</item>
+        <item>Stability</item>
+        <item>Economic Stability</item>
+        <item>Economic Independence</item>
+        <item>Consumption</item>
+        <item>Skyrocketing Prices</item>
+        <item>Soaring Prices</item>
+        <item>Stock</item>
+        <item>Economic Reforms</item>
+        <item>Assets</item>
+        <item>Capital Assets</item>
+        <item>Reinvestment</item>
+        <item>Reinsurance Company</item>
+        <item>Subvention</item>
+        <item>Commercial</item>
+        <item>Tourist Business</item>
+        <item>Stumbling Businesses</item>
+        <item>Insolvency</item>
+        <item>Bankruptcy</item>
+        <item>Economy</item>
+        <item>Market Economy</item>
+        <item>Microeconomics</item>
+        <item>International Economy</item>
+        <item>Stagnant Economy</item>
+        <item>Sound Economy</item>
+        <item>Political Economy</item>
+        <item>Weak Economy</item>
+        <item>Global Economy</item>
+        <item>Econometrics</item>
+        <item>Macroeconomics</item>
+        <item>Postwar Economy</item>
+        <item>Planned Economy</item>
+        <item>Flourishing Economy</item>
+        <item>Stable Economy</item>
+        <item>Home Economics</item>
+        <item>Poor Economy</item>
+        <item>National Economy</item>
+        <item>Economic</item>
+        <item>Autarky</item>
+        <item>Economic Self Sufficiency</item>
+        <item>Treasurer</item>
+        <item>Cashier</item>
+        <item>Storekeeper</item>
+        <item>Production</item>
+        <item>Global Oil OutPut</item>
+        <item>Productive</item>
+        <item>Productivity</item>
+        <item>Slump in prices</item>
+        <item>Disbursement</item>
+        <item>Expenditure</item>
+        <item>Capital Expenditure</item>
+        <item>Deflation</item>
+        <item>Economic Collapse</item>
+        <item>Economic Goals</item>
+        <item>Depreciation</item>
+        <item>Banknotes</item>
+        <item>Credit</item>
+        <item>Deposition</item>
+        <item>Revenue</item>
+        <item>Job Seeker</item>
+        <item>Vender</item>
+        <item>Seller</item>
+        <item>Petroleum</item>
+        <item>oil</item>
+        <item>Economic Program</item>
+        <item>Goods</item>
+        <item>Ration Card</item>
+        <item>Unemployment</item>
+        <item>Underdeveloped Countries</item>
+        <item>Oil Rich Country</item>
+        <item>Bank</item>
+        <item>Central Bank</item>
+        <item>National Bank</item>
+        <item>Structure</item>
+        <item>EConomic Structure</item>
+        <item>STock Exchange</item>
+        <item>Sale</item>
+        <item>Retail</item>
+        <item>Wholesale</item>
+        <item>Marchant</item>
+        <item>Trade</item>
+        <item>Retailer</item>
+        <item>Wholesaler</item>
+        <item>Nationalization</item>
+        <item>Insurance</item>
+        <item>Exchange</item>
+        <item>Trade Exchange</item>
+        <item>Subscription</item>
+        <item>Commerce</item>
+        <item>Trade</item>
+        <item>Mercantile</item>
+        <item>Merchant</item>
+        <item>Freeing of Foreign Exchange Market</item>
+        <item>Economic Analysis</item>
+        <item>Storage</item>
+        <item>Planning</item>
+        <item>Economic Planning</item>
+        <item>Central Blanning</item>
+        <item>Devaluation</item>
+        <item>Currency</item>
+        <item>Inflow</item>
+        <item>Economic Decline</item>
+        <item>Capital Accretion</item>
+        <item>Price Skyrocket</item>
+        <item>Rationalization</item>
+        <item>Credit Facilities</item>
+        <item>Shopping</item>
+        <item>Marketing</item>
+        <item>Industrialization</item>
+        <item>Inflation</item>
+        <item>Stagflation</item>
+        <item>Cooperation</item>
+        <item>Economic Cooperation</item>
+        <item>Tariff</item>
+        <item>Economic Changes</item>
+        <item>Economic Disparity</item>
+        <item>Progress</item>
+        <item>Fluctuations</item>
+        <item>Short run Fluctuations</item>
+        <item>Cost</item>
+        <item>Cost Of living</item>
+        <item>Finance</item>
+        <item>Economic Forecast</item>
+        <item>Economic Development</item>
+        <item>Tax Evasion</item>
+        <item>Distribution</item>
+        <item>Distribution Of Wealth</item>
+        <item>Economic Expansion</item>
+        <item>Wealth</item>
+        <item>Charge</item>
+        <item>Revolution</item>
+        <item>Industrial Revolution</item>
+        <item>Incentive</item>
+        <item>Profit And loss</item>
+        <item>Embargo</item>
+        <item>Economic Rights</item>
+        <item>Protectionism</item>
+        <item>Taxable</item>
+        <item>Economist</item>
+        <item>Advisory Services</item>
+        <item>Service</item>
+        <item>Exchequer</item>
+        <item>Fisc</item>
+        <item>Treasury</item>
+        <item>Loss</item>
+        <item>Privatization</item>
+        <item>Plan</item>
+        <item>Economic Plan</item>
+        <item>Tax Payer</item>
+        <item>Creditor</item>
+        <item>Income</item>
+        <item>Taxable Income</item>
+        <item>Net Income</item>
+        <item>National Income</item>
+        <item>Low Income</item>
+        <item>Feasibility Study</item>
+        <item>Support</item>
+        <item>Economic Support</item>
+        <item>Subsidy</item>
+        <item>Checkbook</item>
+        <item>Payment</item>
+        <item>Cash on Delivery</item>
+        <item>Down Payment</item>
+        <item>Economic Cycle</item>
+        <item>Developed Countries</item>
+        <item>Developing Countries</item>
+        <item>Dollar</item>
+        <item>Debt</item>
+        <item>National Debt</item>
+        <item>Salary</item>
+        <item>Capital</item>
+        <item>Capitalism</item>
+        <item>Businessman</item>
+        <item>Tycoon</item>
+        <item>Duties</item>
+        <item>Customs Duties</item>
+        <item>Balance</item>
+        <item>Credit</item>
+        <item>Well being</item>
+        <item>Welfare</item>
+        <item>Stagnation</item>
+        <item>Recession</item>
+        <item>Economic Ties</item>
+        <item>Agriculture</item>
+        <item>Price Increas</item>
+        <item>Overpopulation</item>
+        <item>Tourist</item>
+        <item>Price</item>
+        <item>Cost Price</item>
+        <item>Market Price</item>
+        <item>Exchange Rate</item>
+        <item>Population</item>
+        <item>Basic Commodities</item>
+        <item>Consumer Goods</item>
+        <item>Capital goods</item>
+        <item>Commodity</item>
+        <item>Broker</item>
+        <item>Stockbroker</item>
+        <item>Fiscal Year</item>
+        <item>Bond</item>
+        <item>Share</item>
+        <item>Marketplace</item>
+        <item>Exchange Market</item>
+        <item>Labor Market</item>
+        <item>Jobs Market</item>
+        <item>Free Market</item>
+        <item>Black Market</item>
+        <item>Global Market</item>
+        <item>Domestic Market</item>
+        <item>Common Market</item>
+        <item>Tourism</item>
+        <item>Economic Policy</item>
+        <item>Fiscal Policy</item>
+        <item>State Control of economy</item>
+        <item>Shipment</item>
+        <item>Buy</item>
+        <item>Purchase</item>
+        <item>Partnership</item>
+        <item>Trade PartnerShip</item>
+        <item>Consulting Firms</item>
+        <item>Firm</item>
+        <item>Company</item>
+        <item>Subsidiary</item>
+        <item>Holding Company</item>
+        <item>Stock Company</item>
+        <item>Prtner</item>
+        <item>Trade Prtner</item>
+        <item>Traveler`s Check</item>
+        <item>Blank Check</item>
+        <item>Check</item>
+        <item>Exports</item>
+        <item>Economic Difficulties</item>
+        <item>Bargain</item>
+        <item>Deal</item>
+        <item>Large Scale Industries</item>
+        <item>Industry</item>
+        <item>Fund</item>
+        <item>Economic Necessities</item>
+        <item>Excise</item>
+        <item>Tax</item>
+        <item>Surtax</item>
+        <item>Income Tax</item>
+        <item>Sales Tax</item>
+        <item>Assessment</item>
+        <item>Economic Pressures</item>
+        <item>Economic Class</item>
+        <item>Demand</item>
+        <item>Jobless</item>
+        <item>Unemployed</item>
+        <item>Worker</item>
+        <item>Seasonal Worker </item>
+        <item>Tax Burden</item>
+        <item>Shortage </item>
+        <item>Budget Deficit</item>
+        <item>Supply</item>
+        <item>Real Estate</item>
+        <item>Economic Sanctions</item>
+        <item>Economic Relations</item>
+        <item>Economics</item>
+        <item>Work</item>
+        <item>Labor</item>
+        <item>Business</item>
+        <item>Thriving Business</item>
+        <item>Banking</item>
+        <item>Currency</item>
+        <item>Foreign Currency</item>
+        <item>Hard Currency</item>
+        <item>Economic Process</item>
+        <item>Socio Economic Factors</item>
+        <item>Economic Factors</item>
+        <item>Proceeds</item>
+        <item>Returns</item>
+        <item>Chamber Of commerce</item>
+        <item>Money Laundry</item>
+        <item>Bill</item>
+        <item>Interest</item>
+        <item>Surplus</item>
+        <item>Economic Opportunity</item>
+        <item>Taxation</item>
+        <item>Poverty</item>
+        <item>Abject Poverty</item>
+        <item>Peasant</item>
+        <item>Banking Law</item>
+        <item>Law Of Supply And Demand</item>
+        <item>Anti monopoly Law</item>
+        <item>Loan</item>
+        <item>Installment</item>
+        <item>Iconomic Issues</item>
+        <item>Sector</item>
+        <item>Economic Sector</item>
+        <item>Private Sector</item>
+        <item>Public Sector</item>
+        <item>Economic Regulations</item>
+        <item>ECONOMIC lAWS</item>
+        <item>Investment Protection Laws</item>
+        <item>Labor Force</item>
+        <item>Economic Powers</item>
+        <item>Mareket Forces</item>
+        <item>Value</item>
+        <item>Economic Restrictions</item>
+        <item>Economic Block</item>
+        <item>Depression</item>
+        <item>Economic Plight</item>
+        <item>Liquid Cash</item>
+        <item>Stockholder</item>
+        <item>Fiscal</item>
+        <item>Financial</item>
+        <item>Economic Principles</item>
+        <item>Payment</item>
+        <item>Overdue</item>
+        <item>Tax Arrears</item>
+        <item>Shopper</item>
+        <item>Budgetary</item>
+        <item>Monetary</item>
+        <item>Variable</item>
+        <item>Economic variables</item>
+        <item>Monopolizer</item>
+        <item>Store</item>
+        <item>Inventory</item>
+        <item>Stock</item>
+        <item>Saving</item>
+        <item>Inlet</item>
+        <item>Payee</item>
+        <item>Manager</item>
+        <item>Debtor</item>
+        <item>Industrial City</item>
+        <item>Economic Doctrine</item>
+        <item>Public Utilities</item>
+        <item>Profitable</item>
+        <item>Economic Centre</item>
+        <item>Commercial centre</item>
+        <item>Economic Advantages</item>
+        <item>Prosperous</item>
+        <item>Farm</item>
+        <item>economic Assistance</item>
+        <item>Investor</item>
+        <item>Economic Advisor</item>
+        <item>Financial Advisor</item>
+        <item>Consumer</item>
+        <item>Warehouse</item>
+        <item>Storehouse</item>
+        <item>Importer</item>
+        <item>Wage level</item>
+        <item>Standard of Living</item>
+        <item>Loss making enterprises</item>
+        <item>Economic Problems</item>
+        <item>Buyer</item>
+        <item>Purchaser</item>
+        <item>Project</item>
+        <item>Enterprise</item>
+        <item>Venture</item>
+        <item>Small Scale Enterprise</item>
+        <item>Mega Project</item>
+        <item>Medium Scale EnterPrise</item>
+        <item>Infrastructure Projects</item>
+        <item>Iconomic Interest</item>
+        <item>Source</item>
+        <item>Exporter</item>
+        <item>Banker</item>
+        <item>Factory</item>
+        <item>Speculation</item>
+        <item>Pension</item>
+        <item>Transaction</item>
+        <item>Commercial Transaction</item>
+        <item>Inflation Rate</item>
+        <item>Interest Rate</item>
+        <item>Duty Free</item>
+        <item>Tax Free</item>
+        <item>Tax Exempt</item>
+        <item>Economic Aid</item>
+        <item>Insolvent</item>
+        <item>Bankrupt</item>
+        <item>Boycott</item>
+        <item>Enterpreneur</item>
+        <item>Barter</item>
+        <item>Economical</item>
+        <item>Property</item>
+        <item>Millionaire</item>
+        <item>Financier</item>
+        <item>Investment Climate</item>
+        <item>Cooperative Outlets</item>
+        <item>Competition</item>
+        <item>Producer</item>
+        <item>Products</item>
+        <item>Eurozone</item>
+        <item>Free trade Zone</item>
+        <item>Economic Organization</item>
+        <item>Building Materials</item>
+        <item>Productive Resources</item>
+        <item>Natural Recources</item>
+        <item>Economic Conference</item>
+        <item>Funding Institution</item>
+        <item>Financial Institution</item>
+        <item>Tourist Season</item>
+        <item>Economic Indicators</item>
+        <item>Supplies</item>
+        <item>Monopolist</item>
+        <item>Balance Of trade</item>
+        <item>Balance of Payments</item>
+        <item>Budget</item>
+        <item>OutPut</item>
+        <item>Industrial output</item>
+        <item>Gross National Product</item>
+        <item>Gross Domestic Product</item>
+        <item>Petty Cash</item>
+        <item>Economic trends</item>
+        <item>Activity</item>
+        <item>Economic activity</item>
+        <item>System</item>
+        <item>Economic System</item>
+        <item>Feudalism</item>
+        <item>Free Enterprise System</item>
+        <item>Economic Theory</item>
+        <item>Expense</item>
+        <item>Economic influence</item>
+        <item>Syndicate</item>
+        <item>Cash</item>
+        <item>Land Transport</item>
+        <item>Rivery Transport</item>
+        <item>Money</item>
+        <item>Economic Models</item>
+        <item>Economic Growth</item>
+        <item>Economic Hegemony</item>
+        <item>Economic Body</item>
+        <item>Imports</item>
+        <item>Budgeter</item>
+        <item>Unity</item>
+        <item>Economic Unity</item>
+        <item>Deposit</item>
+        <item>Treasury</item>
+        <item>Means of Production</item>
+        <item>Transport</item>
+        <item>Job</item>
+        <item>Trade Delegation</item>
+        <item>Redundancy</item>
+        <item>Sell</item>
+        <item>Vend</item>
+        <item>Tolerate huge Losses</item>
+        <item>Freeze</item>
+        <item>Monopolize</item>
+        <item>Liberalize Trade</item>
+        <item>Gin</item>
+        <item>Capitalize</item>
+        <item>Privatize</item>
+        <item>Slash Prices</item>
+        <item>Devaluate</item>
+        <item>Save</item>
+        <item>Subsidize</item>
+        <item>Pay</item>
+        <item>Manage</item>
+        <item>Rationalize</item>
+        <item>Rationalize Public Spending</item>
+        <item>Flourish</item>
+        <item>Thrive</item>
+        <item>Bargain</item>
+        <item>Invest</item>
+        <item>Consume</item>
+        <item>Import</item>
+        <item>Saturate</item>
+        <item>Buy</item>
+        <item>Purchase</item>
+        <item>Export</item>
+        <item>Manufacture</item>
+        <item>Depress</item>
+        <item>Speculate</item>
+        <item>Reschedule</item>
+        <item>Refund</item>
+        <item>Impose new Taxes</item>
+        <item>Assess</item>
+        <item>Boycott</item>
+        <item>Barter</item>
+        <item>Borrow</item>
+        <item>Economize</item>
+        <item>lend</item>
+        <item>Narrow The budget deficit</item>
+        <item>Evaluate</item>
+        <item>Demonetize</item>
+        <item>Capitalize</item>
+        <item>Finance</item>
+        <item>Produce</item>
+        <item>Yield</item>
+        <item>Spend</item>
+        <item>Disburse</item>
+        <item>Develop State Resources</item>
+        <item>Smuggle</item>
+        <item>Deposit</item>
+        <item>Euro</item>
+        <item>Employ</item>
+        <item>Spare</item>
+        <item>Nationalize</item>
+
+    </string-array>
+    <string-array name="Arabic_Economy">
+        <item>اتحاد</item>
+        <item>اتحاد اقتصادى</item>
+        <item>اتحاد الغرف التجارية</item>
+        <item>اتحاد الملابس الجاهزة</item>
+        <item>اتحاد جمركى</item>
+        <item>اتحاد مؤسسات مالية</item>
+        <item>اجر</item>
+        <item>اجرة اضافية</item>
+        <item>احتكار</item>
+        <item>احتكار الشراء</item>
+        <item>احتكارى</item>
+        <item>احتياطى</item>
+        <item>احتياطى العملة</item>
+        <item>احتياطيات بترول</item>
+        <item>احوال اقتصادية</item>
+        <item>ادارة</item>
+        <item>ادراة الجمارك</item>
+        <item>اراء اقتصادية</item>
+        <item>ارباح</item>
+        <item>ارتفاع السعر</item>
+        <item>ارتفاع السعر</item>
+        <item>ارض</item>
+        <item>ازدهار اقتصادى</item>
+        <item>ازدهار اقتصادى</item>
+        <item>ازمة اقتصادية</item>
+        <item>استثمار</item>
+        <item>استثمارات اجنبية</item>
+        <item>استثمارات محلية</item>
+        <item>استرلينى</item>
+        <item>اسستشارى</item>
+        <item>استشارى</item>
+        <item>استصلاح الاراضى</item>
+        <item>استغلالى</item>
+        <item>استقرار</item>
+        <item>استقراراقتصادى</item>
+        <item>استقلال اقتصادى</item>
+        <item>استهلاك</item>
+        <item>الاسعار المرتفعة بسرعة</item>
+        <item>اسعار مرتفعة بشكل كبير</item>
+        <item>اسهم فى شركة</item>
+        <item>اصلاحات اقتصادية</item>
+        <item>اصول ثابتة</item>
+        <item>اصول راسمالية</item>
+        <item>اعادة الاستثمار</item>
+        <item>اعادة التامين</item>
+        <item>اعانة مالية</item>
+        <item>اعلان تجارى</item>
+        <item>اعمال سياحية</item>
+        <item>اعمال متعثرة</item>
+        <item>افلاس</item>
+        <item>افلاس</item>
+        <item>اقتصاد</item>
+        <item>اقتصاد السوق</item>
+        <item>اقتصاد جزئى</item>
+        <item>اقتصاد دولى</item>
+        <item>اقتصاد راكد</item>
+        <item>اقتصاد سليم</item>
+        <item>اقتصاد سياسى</item>
+        <item>اقتصاد ضعيف</item>
+        <item>اقتصاد عالمى</item>
+        <item>اقتصاد قياسى</item>
+        <item>اقتصاد كلى</item>
+        <item>اقتصاد مابعد الحرب</item>
+        <item>اقتصاد مخطط</item>
+        <item>اقتصاد مزدهر</item>
+        <item>اقتصاد مستقر</item>
+        <item>اقتصاد منزلى</item>
+        <item>اقتصاد هزيل</item>
+        <item>اقتصاد وطنى</item>
+        <item>اقتصادى</item>
+        <item>اكتفاء ذاتى</item>
+        <item>اكتفاء ذاتى اقتصاديا</item>
+        <item>امين الخزنة</item>
+        <item>امين الصندوق</item>
+        <item>امين مستودع</item>
+        <item>انتاج</item>
+        <item>انتاج عالمى للبترول</item>
+        <item>انتاجى</item>
+        <item>انتاجية</item>
+        <item>انخفاض الاسعار بشدة</item>
+        <item>انفاق</item>
+        <item>انفاق</item>
+        <item>انفاق رأسمالى</item>
+        <item>انكماش</item>
+        <item>انهيار اقتصادى</item>
+        <item>اهداف اقتصادية</item>
+        <item>اهلاك</item>
+        <item>اوراق مالية</item>
+        <item>ائتمان</item>
+        <item>ايداع</item>
+        <item>ايراد</item>
+        <item>باحث عن وظيفة</item>
+        <item>بائع</item>
+        <item>بائع</item>
+        <item>بترول</item>
+        <item>بترول</item>
+        <item>يرنامج اقتصادى</item>
+        <item>بضائع</item>
+        <item>بطاقة توزيع التموين</item>
+        <item>بطالة</item>
+        <item>بلاد متخلفة</item>
+        <item>بلد غنى بالبترول</item>
+        <item>بنك</item>
+        <item>بنك مركزى</item>
+        <item>بنك وطنى</item>
+        <item>بنية</item>
+        <item>بنية اقتصادية</item>
+        <item>بورصة</item>
+        <item>بيع</item>
+        <item>بيع بالتجزئة</item>
+        <item>بيع بالجملة</item>
+        <item>تاجر</item>
+        <item>تاجر</item>
+        <item>تاجر التجزئة</item>
+        <item>تاجر جملة</item>
+        <item>تأميم</item>
+        <item>تأمين</item>
+        <item>تبادل</item>
+        <item>تبادل تجارى</item>
+        <item>تبرع</item>
+        <item>تجارة</item>
+        <item>تجارة</item>
+        <item>تجارى</item>
+        <item>تجارى</item>
+        <item>تحرير سوق النقد الاجنبى</item>
+        <item>تحليل اقتصادى</item>
+        <item>تخزين</item>
+        <item>تخطيط</item>
+        <item>تخطيط اقتصادى</item>
+        <item>تخطيط مركزى</item>
+        <item>تخفيض قيمة العملة</item>
+        <item>تداول</item>
+        <item>تدفق</item>
+        <item>تدهور اقتصادى</item>
+        <item>تراكم راس المال</item>
+        <item>ارتفاع الاسعار بشكل مفاجئ</item>
+        <item>ترشيد</item>
+        <item>تسهيلات أئتمانية</item>
+        <item>تسوق</item>
+        <item>تسويق</item>
+        <item>تصنيع</item>
+        <item>تضخم</item>
+        <item>تضخم انكماشى</item>
+        <item>تعاون</item>
+        <item>تعاون اقتصادى</item>
+        <item>تعريفة</item>
+        <item>تغيرات اقتصادية</item>
+        <item>تفاوت اقتصادى</item>
+        <item>تقدم</item>
+        <item>تقلبات</item>
+        <item>تقلبات قصيرة المدى</item>
+        <item>تكلفة</item>
+        <item>تكلفة المعيشة</item>
+        <item>تمويل</item>
+        <item>تنبؤ اقتصادى</item>
+        <item>تنمية اقتصادية</item>
+        <item>تهرب من الضرائب</item>
+        <item>توزيع</item>
+        <item>توزيع الثروة</item>
+        <item>توسع اقتصادى</item>
+        <item>ثروة</item>
+        <item>ثمن</item>
+        <item>ثورة</item>
+        <item>ثورة صناعية</item>
+        <item>حافز</item>
+        <item>حساب الارباح والخسائر</item>
+        <item>حظر تجارى</item>
+        <item>حقوق اقتصادية</item>
+        <item>حماية الانتاج الوطنى</item>
+        <item>خاضع للضريبة</item>
+        <item>خبير اقتصادى</item>
+        <item>خدمات استشارية</item>
+        <item>خدمة</item>
+        <item>خزانة الدولة</item>
+        <item>خزانة الدولة</item>
+        <item>خزانة الدولة</item>
+        <item>خسارة</item>
+        <item>خصخصة</item>
+        <item>خطة</item>
+        <item>خطة اقتصادية</item>
+        <item>دافع الضريبة</item>
+        <item>دائن</item>
+        <item>دخل</item>
+        <item>دخل خاضع للضريبة</item>
+        <item>دخل صافى</item>
+        <item>دخل قومى</item>
+        <item>دخل منخفض</item>
+        <item>دراسة جدوى</item>
+        <item>دعم</item>
+        <item>دعم اقتصادى</item>
+        <item>دعم مالى حكومى</item>
+        <item>دفتر شيكات</item>
+        <item>دفع</item>
+        <item>دفع عند التسليم</item>
+        <item>دفعة مقدمه</item>
+        <item>دورة اقتصادية</item>
+        <item>دول متقدمة</item>
+        <item>دول نامية</item>
+        <item>دولار</item>
+        <item>دين</item>
+        <item>دين قومى</item>
+        <item>راتب</item>
+        <item>رأسمال</item>
+        <item>رأسمالية</item>
+        <item>رجل اعمال</item>
+        <item>رجل اعمال واسع الثراء</item>
+        <item>رسوم</item>
+        <item>رسوم جمركية</item>
+        <item>رصيد</item>
+        <item>رصيد دائن</item>
+        <item>رفاهية</item>
+        <item>رفاهية</item>
+        <item>ركود</item>
+        <item>ركود</item>
+        <item>روابط اقتصادية</item>
+        <item>زراعة</item>
+        <item>زيادة السعر</item>
+        <item>زيادة سكانية</item>
+        <item>سائح</item>
+        <item>سعر</item>
+        <item>سعر التكلفة</item>
+        <item>سعر السوق</item>
+        <item>سعر صرف العملة</item>
+        <item>سكان</item>
+        <item>سلع اساسية</item>
+        <item>سلع استهلاكية</item>
+        <item>سلع رأسمالية</item>
+        <item>سلعة</item>
+        <item>سمسار</item>
+        <item>سمسار فى البورصة</item>
+        <item>سنة مالية</item>
+        <item>سند</item>
+        <item>سهم</item>
+        <item>سوق</item>
+        <item>سوق الصرف</item>
+        <item>سوق العمل</item>
+        <item>سوق الوظائف</item>
+        <item>سوق حر</item>
+        <item>سوق سوداء</item>
+        <item>سوق عالمى</item>
+        <item>سوق محلى</item>
+        <item>سوق مشتركة</item>
+        <item>سياحة</item>
+        <item>سياسة اقتصادية</item>
+        <item>سياسة مالية</item>
+        <item>سيطرة الدولة على الاقتصاد</item>
+        <item>شحن او شحنة</item>
+        <item>شراء</item>
+        <item>شراء</item>
+        <item>شراكة</item>
+        <item>شراكة تجارية</item>
+        <item>شركات استشارية</item>
+        <item>شركة</item>
+        <item>شركة</item>
+        <item>شركة تابعة</item>
+        <item>شركة قابضة</item>
+        <item>شركة مساهمة</item>
+        <item>شريك</item>
+        <item>شريك تجارى</item>
+        <item>شيك سياحى</item>
+        <item>شيك عل بياض</item>
+        <item>شيك مصرفى</item>
+        <item>صادرات</item>
+        <item>صعوبات اقتصادية</item>
+        <item>صفقة</item>
+        <item>صفقة</item>
+        <item>صناعات كبيرة</item>
+        <item>صناعة</item>
+        <item>صندوق تمويل</item>
+        <item>ضرورات اقتصادية</item>
+        <item>ضريبة</item>
+        <item>ضريبة</item>
+        <item>ضريبة اضافية</item>
+        <item>ضريبة دخل</item>
+        <item>ضريبة مبيعات</item>
+        <item>ضريبة مقدرة</item>
+        <item>ضغوط اقتصادية</item>
+        <item>طبقة اقتصادية</item>
+        <item>طلب</item>
+        <item>عاطل</item>
+        <item>عاطل</item>
+        <item>عامل</item>
+        <item>عامل موسمى</item>
+        <item>عبء ضريبى</item>
+        <item>عجز</item>
+        <item>عجز الميزانية</item>
+        <item>عرض</item>
+        <item>عقار</item>
+        <item>عقوبات اقتصادية</item>
+        <item>علاقات اقتصادية</item>
+        <item>علم الاقتصاد</item>
+        <item>عمل</item>
+        <item>عمل</item>
+        <item>عمل تجارى</item>
+        <item>عمل مزدهر</item>
+        <item>عمل مصرفى</item>
+        <item>عملة</item>
+        <item>عملة اجنبية</item>
+        <item>عملة صعبة</item>
+        <item>عملية اقتصادية</item>
+        <item>عوامل اجتماعية اقتصادية</item>
+        <item>عوامل اقتصادية</item>
+        <item>عوائد</item>
+        <item>عوائد</item>
+        <item>غرفة تجارية</item>
+        <item>غسيل اموال</item>
+        <item>فاتورة</item>
+        <item>فائدة</item>
+        <item>فائض</item>
+        <item>فرصة اقتصادية</item>
+        <item>فرض الضرائب</item>
+        <item>فقر</item>
+        <item>فقر مدقع</item>
+        <item>فلاح</item>
+        <item>قانون البنوك</item>
+        <item>قانون العرض والطلب</item>
+        <item>قانون مكافحة الاحتكار</item>
+        <item>قرض</item>
+        <item>قسط</item>
+        <item>قضايا اقتصادية</item>
+        <item>قطاع</item>
+        <item>قطاع اقتصادى</item>
+        <item>قطاع خاص</item>
+        <item>قطاع عام</item>
+        <item>قواعد اقتصادية</item>
+        <item>قوانين اقتصادية</item>
+        <item>قوانين حماية الاستثمار</item>
+        <item>قوة العمل</item>
+        <item>قوى اقتصادية</item>
+        <item>قوى السوق</item>
+        <item>قيمة</item>
+        <item>قيود اقتصادية</item>
+        <item>كتلة اقتصادية</item>
+        <item>كساد</item>
+        <item>مأزق اقتصادى</item>
+        <item>مال سائل</item>
+        <item>مالك السهم</item>
+        <item>مالى</item>
+        <item>مالى</item>
+        <item>مبادئ اقتصادية</item>
+        <item>مبلغ مدفوع</item>
+        <item>متأخر الدفع</item>
+        <item>متأخرات الضرائب</item>
+        <item>متسوق</item>
+        <item>متعلق بالميزانية</item>
+        <item>متعلق بالنقود</item>
+        <item>متغير</item>
+        <item>متغيرات اقتصادية</item>
+        <item>محتكر</item>
+        <item>مخزن</item>
+        <item>مخزون</item>
+        <item>مخزون السلع</item>
+        <item>مدخرات</item>
+        <item>منفذ</item>
+        <item>مدفوع له</item>
+        <item>مدير</item>
+        <item>مدين</item>
+        <item>مدينة صناعية</item>
+        <item>مذهب اقتصادى</item>
+        <item>مرافق عامة</item>
+        <item>مربح</item>
+        <item>مركز اقتصادى</item>
+        <item>مركز تجارى</item>
+        <item>مزايا اقتصادية</item>
+        <item>مزدهر</item>
+        <item>مزرعة</item>
+        <item>مساعدة اقتصادية</item>
+        <item>مستثمر</item>
+        <item>مستشار اقتصادى</item>
+        <item>مستشار مالى</item>
+        <item>مستهلك</item>
+        <item>مستودع</item>
+        <item>مستودع</item>
+        <item>مستورد</item>
+        <item>مستوى الاجور</item>
+        <item>مستوى المعيشة</item>
+        <item>مشاريع تحقق خسارة</item>
+        <item>مشاكل اقتصادية</item>
+        <item>مشترى</item>
+        <item>مشترى</item>
+        <item>مشروع</item>
+        <item>مشروع</item>
+        <item>مشروع فيه مخاطرة</item>
+        <item>مشروع صغير</item>
+        <item>مشروع ضخم</item>
+        <item>مشروع متوسط</item>
+        <item>مشروعات البنية التحتية</item>
+        <item>مصالح اقتصادية</item>
+        <item>مصدر</item>
+        <item>مصدر</item>
+        <item>مصرفى</item>
+        <item>مصنع</item>
+        <item>مضاربة</item>
+        <item>معاش التقاعد</item>
+        <item>معاملة</item>
+        <item>معاملة تجارية</item>
+        <item>معدل التضخم</item>
+        <item>معدل الفائدة</item>
+        <item>معفى من الرسوم</item>
+        <item>معفى من الضريبة</item>
+        <item>معفى من الضريبة</item>
+        <item>معونة اقتصادية</item>
+        <item>مفلس</item>
+        <item>مفلس</item>
+        <item>مقاطعة</item>
+        <item>منظم ومدير مشروع</item>
+        <item>مقايضة</item>
+        <item>مقتصد</item>
+        <item>ملكية</item>
+        <item>مليونير</item>
+        <item>ممول</item>
+        <item>مناخ الاستثمار</item>
+        <item>منافذ تعاونية</item>
+        <item>منافسة</item>
+        <item>منتج</item>
+        <item>منتجات</item>
+        <item>منطقة اليورو</item>
+        <item>منطقة تجارية حرة</item>
+        <item>منظمة اقتصادية</item>
+        <item>مواد البناء</item>
+        <item>موارد انتاجية</item>
+        <item>موارد طبيعية</item>
+        <item>مؤتمر اقتصادى</item>
+        <item>مؤسسة تمويل</item>
+        <item>مؤسسة مالية</item>
+        <item>موسم سياحى</item>
+        <item>مؤشرات اقتصادية</item>
+        <item>مؤن</item>
+        <item>مؤيد للاحتكار</item>
+        <item>ميزان تجارى</item>
+        <item>ميزان مدفوعات</item>
+        <item>ميزانية</item>
+        <item>ناتج</item>
+        <item>ناتج صناعى</item>
+        <item>ناتج قومى اجمالى</item>
+        <item>ناتج محلى اجمالى</item>
+        <item>نثريات او مبالغ نقدية صغيرة</item>
+        <item>نزعات اقتصادية</item>
+        <item>نشاط</item>
+        <item>نشاط اقتصادى</item>
+        <item>نظام</item>
+        <item>نظام اقتصادى</item>
+        <item>نظام اقطاعى</item>
+        <item>نظام المشاريع الحرة</item>
+        <item>نظرية اقتصادية</item>
+        <item>نفقة</item>
+        <item>نفوذ اقتصادى</item>
+        <item>نقابة</item>
+        <item>نقد</item>
+        <item>نقل برى</item>
+        <item>نقل نهرى</item>
+        <item>نقود</item>
+        <item>نماذج اقتصادية</item>
+        <item>نمو اقتصادى</item>
+        <item>هيمنة اقتصادية</item>
+        <item>هيئة اقتصادية</item>
+        <item>واردات</item>
+        <item>واضع الميزانية</item>
+        <item>وحدة</item>
+        <item>وحدة اقتصادية</item>
+        <item>وديعة</item>
+        <item>وزارة مالية</item>
+        <item>وسائل الانتاج</item>
+        <item>وسائل النقل</item>
+        <item>وظيفة</item>
+        <item>وفد تجارى</item>
+        <item>وفرة</item>
+        <item>يبيع</item>
+        <item>يبيع</item>
+        <item>يتحمل خسائر كثيرة</item>
+        <item>يجمد</item>
+        <item>يحتكر</item>
+        <item>يحرر التجارة</item>
+        <item>يحلج القطن</item>
+        <item>يحول الى رأسمال</item>
+        <item>يخصخص</item>
+        <item>يخفض الاسعار</item>
+        <item>يخفض قيمة العملة</item>
+        <item>يدخر</item>
+        <item>يدعم ماليا</item>
+        <item>يدفع</item>
+        <item>يدير</item>
+        <item>يرشد</item>
+        <item>يرشد الانفاق العام</item>
+        <item>يزدهر</item>
+        <item>يزدهر</item>
+        <item>يساوم</item>
+        <item>يستثمر</item>
+        <item>يستهلك</item>
+        <item>يستورد</item>
+        <item>يشبع</item>
+        <item>يشترى</item>
+        <item>يشترى</item>
+        <item>يصدر</item>
+        <item>يصنع</item>
+        <item>يصيب بالكساد</item>
+        <item>يضارب</item>
+        <item>يعيد جدولة</item>
+        <item>يعيد مالا</item>
+        <item>يفرض ضرائب جديدة</item>
+        <item>يفرض ضريبة</item>
+        <item>يقاطع</item>
+        <item>يقايض</item>
+        <item>يقترض</item>
+        <item>يقتصد</item>
+        <item>يقرض</item>
+        <item>يقلص عجز الميزانية</item>
+        <item>يقيم</item>
+        <item>يلغى عملة من التداول</item>
+        <item>يمول</item>
+        <item>يمول</item>
+        <item>ينتج</item>
+        <item>ينتج</item>
+        <item>ينفق</item>
+        <item>ينفق</item>
+        <item>ينمى موارد الدولة</item>
+        <item>يهرب بضائع</item>
+        <item>يودع</item>
+        <item>يورو</item>
+        <item>يوظف</item>
+        <item>يوفر</item>
+        <item>يؤمم</item>
+
+    </string-array>
+    <string name="title_activity_public__words">PUBLIC_WORDS</string>
+    <string name="title_activity_computer">Computer</string>
+    <string name="title_activity_my_exampels">MyExampels</string>
+    <string name="title_activity_favourt">FAVOURT</string>
+    <string name="title_activity_comercial">COMERCIAL</string>
+    <string name="title_activity_political">POLITICAL</string>
+    <string name="title_activity_tourist">TOURIST</string>
+    <string name="title_activity_economy">ECONOMY</string>
+    <string name="title_activity_conversation">Conversation</string>
+    <string name="title_activity_common_question">Common_question</string>
+    <string name="title_activity_public1">Public1</string>
+    <string name="title_activity_public">Public</string>
+    <string name="title_activity_public2">PUBLIC2</string>
+    <string name="title_activity_listining">Listining</string>
+    <string name="title_activity_reading_story">Reading_story</string>
+    <string name="title_activity_online__reading">Online_Reading</string>
+    <string name="title_activity_words">Words</string>
+
+
+</resources>

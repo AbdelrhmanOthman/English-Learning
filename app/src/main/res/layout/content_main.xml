@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="@color/colorbackgorund"
+
+    >
+
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <LinearLayout
+            android:layout_marginTop="50dp"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imagewords"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                android:layout_margin="35dp"
+                android:background="@drawable/words" />
+
+            <ImageView
+                android:id="@+id/imagereading"
+
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                android:layout_margin="35dp"
+                app:srcCompat="@drawable/reading" />
+
+
+
+            <ImageView
+                android:id="@+id/imagelisten"
+
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                android:layout_margin="35dp"
+                app:srcCompat="@drawable/listen" />
+
+            <ImageView
+                android:id="@+id/imageconversation"
+
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                android:layout_margin="35dp"
+                app:srcCompat="@drawable/conversation" />
+
+            <ImageView
+                android:id="@+id/imagedictionary"
+
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                android:layout_margin="35dp"
+                app:srcCompat="@drawable/dictionary" />
+
+            <ImageView
+                android:id="@+id/imagespeaking"
+
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                android:layout_margin="35dp"
+                app:srcCompat="@drawable/speaking" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

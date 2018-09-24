@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="@color/colorbackgorund"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.abdelrhman.abdo.learn_english.Words"
+    tools:showIn="@layout/app_bar_words">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:layout_margin="35dp"
+                android:paddingTop="60dp"
+
+                android:id="@+id/imagewords1"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+           android:background="@drawable/words1" />
+
+            <ImageView
+                android:layout_margin="35dp"
+
+                android:id="@+id/imagewords2"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                app:srcCompat="@drawable/words2" />
+
+            <ImageView
+                android:layout_margin="35dp"
+
+                android:id="@+id/imagewords3"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                app:srcCompat="@drawable/words3" />
+
+            <ImageView
+                android:layout_margin="35dp"
+
+                android:id="@+id/imagewordacounting"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                app:srcCompat="@drawable/accounting" />
+
+            <ImageView
+                android:layout_margin="35dp"
+
+                android:id="@+id/imagewordspolitical"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                app:srcCompat="@drawable/political" />
+
+            <ImageView
+                android:layout_margin="35dp"
+
+                android:id="@+id/imagewordseconomic"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                app:srcCompat="@drawable/economic" />
+
+            <ImageView
+                android:layout_margin="35dp"
+
+                android:id="@+id/imagewordstourism"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                app:srcCompat="@drawable/tourism" />
+
+            <ImageView
+                android:layout_margin="35dp"
+
+                android:id="@+id/imagewordscomputer"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                app:srcCompat="@drawable/computer" />
+
+            <ImageView
+                android:layout_margin="35dp"
+
+                android:id="@+id/imagewordsquestion"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                app:srcCompat="@drawable/question" />
+
+            <ImageView
+                android:layout_margin="35dp"
+
+                android:id="@+id/imageexampel"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                app:srcCompat="@drawable/example" />
+
+            <ImageView
+                android:layout_margin="35dp"
+
+                android:paddingBottom="50dp"
+                android:id="@+id/imagefavourit"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                android:background="@drawable/favourite"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorbackgorund"
+    tools:context="com.abdelrhman.abdo.learn_english.READMain">
+
+
+
+    <ImageView
+        android:id="@+id/imageonlineread"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="55dp"
+        app:srcCompat="@drawable/onlineread" />
+
+    <ImageView
+        android:id="@+id/imagestortread"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/imageonlineread"
+        android:layout_marginBottom="27dp"
+        app:srcCompat="@drawable/storyread" />
+</RelativeLayout>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.abdelrhman.abdo.learn_english">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <application
+
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label=""
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="معرفة لتعليم الانجليزية"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Computer"
+            android:label="كلمات فى الكمبيوتر"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MyExampels"
+            android:label="صفحة الامثلة"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".FAVOURT"
+            android:label="المفضلة"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".LIST_WORDS_Activity"
+            android:theme="@style/Theme.AppCompat.Light.Dialog" />
+        <activity
+            android:name=".Public_WOrds"
+            android:label="كلمات عامة3"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".COMERCIAL"
+            android:label="كلمات فى المحاسبة"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".POLITICAL"
+            android:label="كلمات فى السياسة"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TOURIST"
+            android:label="كلمات فى السياحة"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ECONOMY"
+            android:label="كلمات فى الاقتصاد"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ListWordsPUblic"
+            android:label=""
+            android:theme="@style/Theme.AppCompat.Light.Dialog" />
+        <activity
+            android:name=".ListWordsComercial"
+            android:theme="@style/Theme.AppCompat.Light.Dialog" />
+        <activity
+            android:name=".ListWordsPolitical"
+            android:theme="@style/Theme.AppCompat.Light.Dialog" />
+        <activity
+            android:name=".ListWordsEconomy"
+            android:theme="@style/Theme.AppCompat.Light.Dialog" />
+        <activity
+            android:name=".ListWordsTourist"
+            android:theme="@style/Theme.AppCompat.Light.Dialog" />
+        <activity
+            android:name=".Conversation"
+            android:label="المحادثة"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".WebViewConversation" />
+        <activity
+            android:name=".Common_question"
+            android:label="الاسئلة الشائعة فى المحادثة اليومية"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ListQuestion"
+            android:theme="@style/Theme.AppCompat.Light.Dialog" />
+        <activity
+            android:name=".Public1"
+            android:label="كلمات عامة1"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".PUBLIC2"
+            android:label="كلمات عامة2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ListWordsPublic1"
+            android:theme="@style/Theme.AppCompat.Light.Dialog" />
+        <activity
+            android:name=".ListWordsPublic2"
+            android:theme="@style/Theme.AppCompat.Light.Dialog" />
+        <activity
+            android:name=".Listining"
+            android:label="الاستماع"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Reading_story"
+            android:label="قصص قصيرة"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".WebViewstory" />
+        <activity
+            android:name=".Online_Reading"
+            android:label="قراءه أون لاين"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Words"
+            android:label="صفحة الكلمات"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".READMain"
+            android:label="صفحة القراءة" />
+        <activity android:name=".DictionaryWebView" />
+        <activity
+            android:name=".Speaking"
+            android:label="الناطق الصوتى" />
+        <activity
+            android:name=".DELETE"
+            android:theme="@style/Theme.AppCompat.Light.Dialog" />
+        <activity
+            android:name=".Delete2"
+            android:theme="@style/Theme.AppCompat.Light.Dialog" />
+        <activity android:name=".Help"
+            android:theme="@style/Theme.AppCompat.Light.Dialog" />
+
+
+        <activity android:name="com.startapp.android.publish.ads.list3d.List3DActivity"
+            android:theme="@android:style/Theme" />
+
+        <activity android:name="com.startapp.android.publish.adsCommon.activities.OverlayActivity"
+            android:theme="@android:style/Theme.Translucent"
+            android:configChanges="orientation|keyboardHidden|screenSize" />
+
+        <activity android:name="com.startapp.android.publish.adsCommon.activities.FullScreenActivity"
+            android:theme="@android:style/Theme"
+            android:configChanges="orientation|keyboardHidden|screenSize" />
+        <service android:name="com.startapp.android.publish.common.metaData.PeriodicMetaDataService" />
+        <service android:name="com.startapp.android.publish.common.metaData.InfoEventService" />
+        <service android:name="com.startapp.android.publish.common.metaData.PeriodicJobService"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+        <receiver android:name="com.startapp.android.publish.common.metaData.BootCompleteListener" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+    </application>
+
+</manifest>
